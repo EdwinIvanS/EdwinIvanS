@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Aprendo de las nuevas tecnologias y soy empirico con mi aprendizaje.
 - 🎓 &nbsp; Soy ingeniero de sistemas graduado de la UNAD.
 - 💼 &nbsp; Trabajo en el sector financiero.
-- 🌱 &nbsp; Quiero formtalecer mis conociemientos.
+- 🌱 &nbsp; Quiero fortalecer mis conocimientos.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
