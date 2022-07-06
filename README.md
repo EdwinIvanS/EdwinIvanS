@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Edwin Saboya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -8,7 +6,6 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -47,7 +44,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/edwin-ivan-saboya-echeverry/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/edwinivans/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="Edwin: sedwin1188@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="sedwin1188@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
