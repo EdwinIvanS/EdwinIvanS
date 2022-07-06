@@ -2,10 +2,19 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🤔 &nbsp; Aprendo de las nuevas tecnologias y soy empirico con mi aprendizaje.
+- 🎓 &nbsp; Soy ingeniero de sistemas graduado de las UNAD.
+- 💼 &nbsp; Trabajo en el sector financiero.
+- 🌱 &nbsp; Quiero formtalecer mis conociemientos.
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/edwin-ivan-saboya-echeverry/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Edwin Saboya LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://github.com/EdwinIvanS">
+  <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
+</a>&nbsp;
+</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -39,14 +48,7 @@
 
 [![SulthanNK's github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/SulthanNK/github-readme-stats)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/edwin-ivan-saboya-echeverry/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Edwin Saboya LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://github.com/EdwinIvanS">
-  <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
-</a>&nbsp;
-</p>
 
 
 
