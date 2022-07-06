@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Aprendo de las nuevas tecnologias y soy empirico con mi aprendizaje.
-- 🎓 &nbsp; Soy ingeniero de sistemas graduado de las UNAD.
+- 🎓 &nbsp; Soy ingeniero de sistemas graduado de la UNAD.
 - 💼 &nbsp; Trabajo en el sector financiero.
 - 🌱 &nbsp; Quiero formtalecer mis conociemientos.
 
