@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/edwin-ivan-saboya-echeverry"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Edwin Saboya LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/edwin-ivan-saboya-echeverry/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Edwin Saboya LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://github.com/EdwinIvanS">
   <img align="center" src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github" alt="Github" />
 </a>&nbsp;
